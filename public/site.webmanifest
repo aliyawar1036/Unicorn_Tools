@@ -1,0 +1,16 @@
+{
+  "name": "UnicornTools",
+  "short_name": "UnicornTools",
+  "description": "Everyday Tools. Made Simple. Free, private online image utilities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064E3B",
+  "theme_color": "#16A34A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
