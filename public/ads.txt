@@ -1,0 +1,4 @@
+# UnicornTools ads.txt file
+# Once your Google AdSense account is approved, add your verified publisher entry below:
+# Example format:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
