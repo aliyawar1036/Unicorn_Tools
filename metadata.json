@@ -1,6 +1,0 @@
-{
-  "name": "UnicornTools",
-  "description": "Everyday Tools. Made Simple. Free, private, and fast online utility suite for image compression, resizing, format conversion, and preparation for web uploads.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
