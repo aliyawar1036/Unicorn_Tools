@@ -90,4 +90,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
+  
+<url>
+  <loc>https://unicorn-tools.vercel.app/blog/how-to-compress-an-image-to-100-kb</loc>
+</url>
+<url>
+  <loc>https://unicorn-tools.vercel.app/blog/how-to-resize-an-image-for-an-online-form</loc>
+</url>
+<url>
+  <loc>https://unicorn-tools.vercel.app/blog/jpg-vs-png-vs-webp</loc>
+</url>
+<url>
+  <loc>https://unicorn-tools.vercel.app/blog/how-to-reduce-image-file-size-without-losing-too-much-quality</loc>
+</url>
+<url>
+  <loc>https://unicorn-tools.vercel.app/blog/how-to-prepare-images-for-website-uploads</loc>
+</url>
+
 </urlset>
